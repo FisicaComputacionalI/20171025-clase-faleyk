@@ -34,7 +34,7 @@ int main()
         }
     }while(s!=0);
     
-    cout<<"P="<<p<<endl;
+    cout<<"P="<<p-2<<endl;
     return 0;
 }
 
